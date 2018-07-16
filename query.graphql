@@ -1,0 +1,4 @@
+query FooBar {
+    foo
+    bar @client
+}
