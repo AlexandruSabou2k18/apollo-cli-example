@@ -3,5 +3,5 @@ schema {
 }
 
 type Query {
-    Foo: String
+    foo: String
 }
